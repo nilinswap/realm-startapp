@@ -1,0 +1,7 @@
+target
+__pycache__/
+*.pyc
+elm-stuff/
+.idea/
+src/static/realm/elatest/Widgets/BWidgets/*
+src/static/realm/elatest/Pages/*
