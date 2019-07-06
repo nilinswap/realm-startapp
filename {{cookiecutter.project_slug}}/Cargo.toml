@@ -1,5 +1,5 @@
 [package]
-name = "graftpress"
+name = "{{cookiecutter.project_slug}}"
 version = "0.1.0"
 authors = ["nilinswap <nilinswap@gmail.com>"]
 edition = "2018"
