@@ -2,4 +2,5 @@
 extern crate realm;
 extern crate {{cookiecutter.project_slug}};
 
-realm::realm!{cookiecutter.project_slug::forward::magic}
+use {{cookiecutter.project_slug}}::forward::magic;
+realm::realm!{magic}
