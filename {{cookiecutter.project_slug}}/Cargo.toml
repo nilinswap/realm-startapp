@@ -13,7 +13,7 @@ http = "~0.1.17"
 serde_json = "~1.0.0"
 serde = "~1.0.0"
 serde_derive = "~1.0.0"
-realm = { path = "/Users/swapnil/forgit/dwelm/realm" }
+realm = "0.1.2"
 
 
 
