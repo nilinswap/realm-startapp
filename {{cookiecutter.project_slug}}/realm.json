@@ -1,5 +1,4 @@
 {
      "static_dir": "src/static",
-     "loader_file": "node_modules/realm-loader/lib/loader.js",
-     "elm_source_dir": "src/frontend"
+     "elm_source_dirs": ["src/frontend"]
 }
